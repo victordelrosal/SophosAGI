@@ -1,4 +1,7 @@
 # SophosAGI
+
+<img src="https://i.postimg.cc/3J8YtMDZ/Sophos-AGICenter.png" alt="SophosAGI Center" width="1000">
+
 SophosAGI is an AGI-readiness organization advised by an AI board.
 
 We engage in training, research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
