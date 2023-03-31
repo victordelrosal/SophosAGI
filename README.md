@@ -178,11 +178,7 @@ Here is the Meeting Agenda:
 	<h3>First Meeting</h3>
 </div>
 
-👉 Here is how the full meeting played out (link to Notion page):
-
-<p></p>
-
-<a href="https://sophosagi.notion.site/First-Advisory-Board-Meeting-1a84eb24af244fbda94ebb531712b82e">Full transcript of first meeting (links to Notion)</a>
+👉 Full transcript of first meeting (links to Notion page): <a href="https://sophosagi.notion.site/First-Advisory-Board-Meeting-1a84eb24af244fbda94ebb531712b82e">Full transcript of first meeting (links to Notion page)</a>
 
 
 ⚠️ Note: the meeting started at 11:00 but had to be paused at 11:45 because of the 25-message cap on the GPT-4 Model. Will aim to resume in the afternoon.
