@@ -35,4 +35,11 @@ Outreach: We engage with the public, governments, and organizations to promote u
 
 By combining research, education, collaboration, advocacy, and outreach, Sophos aims to ensure that society is well-equipped to address the challenges and opportunities that AGI will bring, ultimately fostering a future where AGI benefits all of humanity.
 
+Sample members include
+
+<img src="https://i.postimg.cc/RVSH13XP/25-Dr-Ming-Zhou.png" alt="Dr. Ming Zhou">
+
+Dr. Ming Zhou	Ming	Zhou	he/him	Singapore 🇸🇬		Dr. Zhou is a public health expert, focusing on the role of AI in global health initiatives and the equitable distribution of AI-driven healthcare resources. He has worked with various international organizations to implement AI-driven health programs.	public health expert	healthcare	55	Expertise in public health, contributes to gender balance, age diversity, racial and ethnic diversity, and represents Southeast Asian perspectives.
+
+
 
