@@ -209,6 +209,10 @@ The Advisory Board, comprising of 25 fictional characters, has been carefully se
 </footer>
 
 <style>
+  footer {
+    text-align: center;
+  }
+
   footer nav ul {
     list-style: none;
     display: flex;
@@ -220,9 +224,13 @@ The Advisory Board, comprising of 25 fictional characters, has been carefully se
     margin-right: 10px;
   }
 
+  footer nav ul li {
+    height: 30px;
+    line-height: 30px;
+  }
+
   footer nav ul li a {
     color: #333;
     text-decoration: none;
   }
 </style>
-
