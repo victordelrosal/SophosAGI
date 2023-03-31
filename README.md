@@ -180,8 +180,6 @@ Here is the Meeting Agenda:
 
 ⚠️ Note: the meeting started at 11:00 but had to be paused at 11:45 because of the 25-message cap on the GPT-4 Model. Will aim to resume in the afternoon.
 
-🙏🏻 Update: I have just reached out to the OpenAI team asking if this limit could be eased.
-
 <div style="background-color: #f2f2f2; width: 100%;">
 	<h2>SophosAGI Advisory Board</h2>
 </div>
