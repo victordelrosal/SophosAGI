@@ -1,29 +1,48 @@
 # SophosAGI
-SophosAGI: AGI-readiness organization advised by an AI board
+SophosAGI is an AGI-readiness organization advised by an AI board.
 
-SophosAGI is an organization with the mission of helping society get ready for (human-level) artificial general intelligence (AGI). It aims to help key stakeholders and decision-makers navigate the complex landscape of AGI and its potential consequences.
+We engage in training, research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
 
-It is focused on creating awareness and educating about AGI, its benefits and challenges,  prepare society for the challenges and opportunities presented by the development of AGI. We engage in research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
+It is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
 
-SophosAGI is run by a (human) executive team assisted by an AI Advisory Board.
+<h2>Mission</h2> 
+Help society prepare for (human-level) artificial general intelligence (AGI). 
+
+<h3>Focus areas</h3> 
+
+⦾ Create awareness about artificial general intelligence (AGI), how it works, its benefits and potential threats, etc.
+
+⦾ Help key stakeholders and decision-makers navigate the complex landscape of AGI and its potential consequences.
+
+⦾ Explore the challenges and opportunities presented by the development of AGI across all sectors of society. 
+
+<h3>AI Advisory Board</h3> 
+SophosAGI is run by a (human) executive team (XT) assisted by an AI Advisory Board composed of 25 AI-generated board members aiming for comprehensive representation of a wide variety of stakeholders.
+
+The Executive Team is supported by an AI Advisory Board consisting of 25 advisors created with and powered by GPT-4. 
+
+AI advisors provide guidance and insights to help SophosAGI navigate the complex landscape of AGI and its potential implications. 
+
+While board members are fictitious, it is a simulation that aims to draw from a diverse range of knowledge and expertise, while maintaining an unbiased and balanced perspective.
 
 <h3>Primary goals</h3>
 
-Raise awareness: provide information about the concept of AGI, its potential benefits, risks, and the current state of research. SophosAGI aims to emphasize the importance of ethical considerations and responsible development of AGI technology.
+▶ Raise awareness: provide information about the concept of AGI, its potential benefits, risks, and the current state of research. SophosAGI aims to emphasize the importance of ethical considerations and responsible development of AGI technology.
 
-Foster understanding: break down complex concepts and technical jargon into understandable language, making AGI-related information accessible to a wider audience. This enables more people to participate in conversations and decision-making processes around AGI.
+▶ Promote understanding: break down complex concepts and technical jargon into understandable language, making AGI-related information accessible to a wider audience. This enables more people to participate in conversations and decision-making processes around AGI.
 
-Encourage collaboration: promote open dialogue between various stakeholders, including researchers, policymakers, industry leaders, and the general public, to facilitate cooperation and knowledge-sharing in the development of AGI.
+▶ Encourage collaboration: promote open dialogue between various stakeholders, including researchers, policymakers, industry leaders, and the general public, to facilitate cooperation and knowledge-sharing in the development of AGI.
 
-Provide guidance and training: offer best practices and recommendations for individuals and organizations to prepare for the potential impacts of AGI. This may include strategies for job preparedness, skill development, and business adaptation in anticipation of an increasingly automated world.
+▶ Provide guidance and training: offer best practices and recommendations for individuals and organizations to prepare for the potential impacts of AGI. This may include strategies for job preparedness, skill development, and business adaptation in anticipation of an increasingly automated world.
 
-Address misconceptions: aim to dispel common myths and misconceptions surrounding AGI, fostering a more accurate and nuanced understanding of the technology and its implications.
+▶ Address misconceptions: aim to dispel common myths and misconceptions surrounding AGI, fostering a more accurate and nuanced understanding of the technology and its implications.
 
-Support research and innovation: share valuable research findings, advancements, and insights from the AGI research community, in order to contribute to the ongoing development of safe and beneficial AGI technologies.
+▶ Support research and innovation: share valuable research findings, advancements, and insights from the AGI research community, in order to contribute to the ongoing development of safe and beneficial AGI technologies.
+
+<h3>Justification</h3> 
 
 Through these functions, SophosAGI seeks to help society navigate the complex landscape of AGI and its potential consequences, fostering a responsible and informed approach to this transformative technology.
 
-Our management team is supported by an AI Advisory Board consisting of 25 advisors powered by GPT-4. These AI advisors provide expert guidance and insights to help Sophos navigate the complex landscape of AGI and its potential implications. The AI Advisory Board allows us to draw from a diverse range of knowledge and expertise, while maintaining an unbiased and balanced perspective.
 
 <h3>Core activities</h3>
 
