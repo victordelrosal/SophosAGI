@@ -12,11 +12,11 @@ SophosAGI seeks to help society navigate the complex landscape of AGI and its po
 
 <h3>Focus areas</h3> 
 
-⦾ Create awareness about artificial general intelligence (AGI), how it works, its benefits and potential threats, etc.
+▶ Create awareness about artificial general intelligence (AGI), how it works, its benefits and potential threats, etc.
 
-⦾ Help key stakeholders and decision-makers navigate the complex landscape of AGI and its potential consequences.
+▶ Help key stakeholders and decision-makers navigate the complex landscape of AGI and its potential consequences.
 
-⦾ Explore the challenges and opportunities presented by the development of AGI across all sectors of society. 
+▶ Explore the challenges and opportunities presented by the development of AGI across all sectors of society. 
 
 <h3>AI Advisory Board</h3> 
 
@@ -46,17 +46,74 @@ While board members are fictitious, it is a simulation that aims to draw from a 
 
 <h3>Core activities</h3>
 
-Research: We conduct interdisciplinary research on AGI, exploring its potential risks and benefits, as well as the ethical, social, and economic dimensions of its development and deployment.
+▶ Research: we conduct interdisciplinary research on AGI, exploring its potential risks and benefits, as well as the ethical, social, and economic dimensions of its development and deployment.
 
-Education: We develop and offer educational programs, resources, and workshops to raise awareness about AGI, foster critical thinking, and build a community of informed individuals who can actively contribute to AGI readiness.
+▶ Education: we develop and offer educational programs, resources, and workshops to raise awareness about AGI, foster critical thinking, and build a community of informed individuals who can actively contribute to AGI readiness.
 
-Collaboration: We collaborate with researchers, institutions, policymakers, and industry stakeholders to promote open dialogue, share knowledge, and develop best practices for AGI development and governance.
+▶ Collaboration: we collaborate with researchers, institutions, policymakers, and industry stakeholders to promote open dialogue, share knowledge, and develop best practices for AGI development and governance.
 
-Advocacy: We advocate for responsible and ethical AGI development, emphasizing the need for transparency, inclusivity, and public engagement in shaping the future of AGI.
+▶ Advocacy: we advocate for responsible and ethical AGI development, emphasizing the need for transparency, inclusivity, and public engagement in shaping the future of AGI.
 
-Outreach: We engage with the public, governments, and organizations to promote understanding of AGI, its potential impact on society, and the importance of preparing for its arrival.
+O▶ utreach: we engage with the public, governments, and organizations to promote understanding of AGI, its potential impact on society, and the importance of preparing for its arrival.
 
 By combining research, education, collaboration, advocacy, and outreach, Sophos aims to ensure that society is well-equipped to address the challenges and opportunities that AGI will bring, ultimately fostering a future where AGI benefits all of humanity.
+
+<h3>Short term goals</h3>
+
+Hold the first meeting with the Advisory Board.
+Date: 31 March 2023
+Time: 11:00 GMT
+Location: ChatGPT servers (GPT-4 model)
+Duration: est. 60 minutes
+
+Here is the Meeting Agenda:
+
+1. Welcome and Introductions (10 minutes)
+
+	Chairperson or Executive Director's welcome remarks
+	Roundtable self-introductions of Advisory Board members
+
+2. Overview of the Nonprofit Organization (15 minutes)
+
+	Presentation on the nonprofit's mission, vision, and values
+
+3. Role and Expectations of the Advisory Board (20 minutes)
+
+	Presentation on the purpose, scope, and expectations of the Advisory Board
+	Discussion of an outline for the Advisory Board's terms of reference
+
+4. Strategic Priorities and Challenges (30 minutes)
+
+	Presentation on the nonprofit's current strategic priorities and challenges
+	Group discussion on how the Advisory Board can provide guidance and support
+
+5. Advisory Board Work Plan (20 minutes)
+
+	Establishment of working groups, committees, or task forces as needed
+	Discussion on the frequency and format of future meetings
+	Setting of goals and objectives for the first quarter
+
+6. Advisory Board Governance (15 minutes)
+
+	Nomination and election of Advisory Board chairperson, vice-chairperson, and other roles (if applicable)
+	Review and adoption of the Advisory Board's code of conduct or ethics
+
+7. Open Discussion and Q&A (20 minutes)
+
+	Opportunity for board members to raise questions, concerns, or suggestions
+	Discussion on potential collaborations, partnerships, or resources
+
+8. Next Steps and Closing (10 minutes)
+
+	Summary of action items and assignments
+	Confirmation of the date, time, and location for the next meeting
+	Chairperson or Executive Director's closing remarks
+	Any Other Business (AOB)
+
+9. Adjournment
+
+
+
 
 <h2>SophosAGI Advisory Board</h2>
 
@@ -72,6 +129,7 @@ Advisory Board members have been generated by GPT-4 to be globally representativ
 <h3>Dr. Marie Durand</h3> 
 (she/her)	France 🇫🇷 		Dr. Durand is a linguist, exploring the role of AI in preserving and promoting linguistic diversity. She has developed several AI-based tools to support endangered languages.	linguist	linguistic diversity.	Expertise in linguistics, contributes to gender balance, age diversity, and represents Western European perspectives.	
 
-Placeholder for a table with more board members to come here...
+Placeholder table for more board members
+
 
 Footer: SophosAGI (c) 2023. All Rights Reserved.
