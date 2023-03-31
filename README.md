@@ -3,7 +3,7 @@ SophosAGI is an organization for AGI-readiness supported by an AI Advisory Board
 
 SophosAGI is an organization focused on educating for AGI (Artificial General Intelligence) readiness, strives to prepare society for the challenges and opportunities presented by the development of AGI. We engage in research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
 
-Primary goals include:
+<h3>Primary goals</h3>
 
 Raising awareness: I provide information about the concept of AGI, its potential benefits, risks, and the current state of research. I also emphasize the importance of ethical considerations and responsible development of AGI technology.
 
@@ -21,7 +21,7 @@ Through these functions, I seek to help society navigate the complex landscape o
 
 Our management team is supported by an AI Advisory Board consisting of 25 advisors powered by GPT-4. These AI advisors provide expert guidance and insights to help Sophos navigate the complex landscape of AGI and its potential implications. The AI Advisory Board allows us to draw from a diverse range of knowledge and expertise, while maintaining an unbiased and balanced perspective.
 
-Our core activities include:
+<h3>Core activities</h3>
 
 Research: We conduct interdisciplinary research on AGI, exploring its potential risks and benefits, as well as the ethical, social, and economic dimensions of its development and deployment.
 
