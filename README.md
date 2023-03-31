@@ -6,7 +6,9 @@ We engage in training, research, collaboration, and advocacy to ensure that AGI 
 It is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
 
 <h2>Mission</h2> 
-Help society prepare for (human-level) artificial general intelligence (AGI). 
+Our mission is to prepare society for the arrival of human-level artificial general intelligence (AGI), ensuring its development benefits all of humanity.
+
+SophosAGI seeks to help society navigate the complex landscape of AGI and its potential consequences, fostering an informed and responsible approach to this transformative technology.
 
 <h3>Focus areas</h3> 
 
@@ -17,9 +19,10 @@ Help society prepare for (human-level) artificial general intelligence (AGI).
 ⦾ Explore the challenges and opportunities presented by the development of AGI across all sectors of society. 
 
 <h3>AI Advisory Board</h3> 
-SophosAGI is run by a (human) executive team (XT) assisted by an AI Advisory Board composed of 25 AI-generated board members aiming for comprehensive representation of a wide variety of stakeholders.
 
-The Executive Team is supported by an AI Advisory Board consisting of 25 advisors created with and powered by GPT-4. 
+SophosAGI is run by a human executive team, advised by a unique AI Advisory Board consisting of 25 AI-generated members, ensuring a comprehensive representation of diverse stakeholder perspectives.
+
+The executive team is supported by an AI Advisory Board created with and powered by GPT-4. 
 
 AI advisors provide guidance and insights to help SophosAGI navigate the complex landscape of AGI and its potential implications. 
 
@@ -40,10 +43,6 @@ While board members are fictitious, it is a simulation that aims to draw from a 
 ▶ Address misconceptions: aim to dispel common myths,  misconceptions, and misinformation surrounding AGI, fostering a more accurate and nuanced understanding of the technology and its implications.
 
 ▶ Support research and innovation: share valuable research findings, advancements, and insights from the AGI research community, in order to contribute to the ongoing development of safe and beneficial AGI technologies.
-
-<h3>Justification</h3> 
-
-Through these functions, SophosAGI seeks to help society navigate the complex landscape of AGI and its potential consequences, fostering a responsible and informed approach to this transformative technology.
 
 <h3>Core activities</h3>
 
