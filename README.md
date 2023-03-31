@@ -198,9 +198,8 @@ The Advisory Board, comprising of 25 fictional characters, has been carefully se
   <p>&copy; 2023 SophosAGI. All rights reserved.</p>
   <nav>
     <ul>
-      <li><a href="https://twitter.com/sophosagi">Twitter</a></li>
-      <li><a href="https://www.linkedin.com/company/sophosagi">LinkedIn</a></li>
-      <li><a href="https://sophosagi.org/contact">Contact Us</a></li>
+      <li><a href="https://twitter.com/">Twitter</a></li>
+      <li><a href="https://www.linkedin.com/company/">LinkedIn</a></li>
     </ul>
   </nav>
 </footer>
