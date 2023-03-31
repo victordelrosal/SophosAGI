@@ -14,7 +14,7 @@ AGI: Artificial General Intelligence (human level-AI).
 <p></p>
 <p></p>
 
-SophosAGI is an AGI-readiness organization advised by an AI board.
+<mark>SophosAGI is an AGI-readiness organization advised by an AI board.</mark>
 
 We engage in training, research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
 
