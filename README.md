@@ -51,7 +51,9 @@ AI advisors provide guidance and insights to help SophosAGI navigate the complex
 
 While board members are fictitious, it is a simulation that aims to draw from a diverse range of knowledge and expertise, while maintaining an unbiased and balanced perspective.
 
-<h3>Primary goals</h3>
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h3>Primary goals</h3>
+</div>
 
 ▶ Raise awareness: encourage access to objective, balanced, in-depth information about the concept of AI and AGI, its technical specifications, design principles, potential benefits, risks, and the current state of research. 
 
@@ -67,7 +69,9 @@ While board members are fictitious, it is a simulation that aims to draw from a 
 
 ▶ Support research and innovation: share valuable research findings, advancements, and insights from the AGI research community, in order to contribute to the ongoing development of safe and beneficial AGI technologies.
 
-<h3>Core activities</h3>
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h3>Core activities</h3>
+</div>
 
 ▶ Research: we conduct interdisciplinary research on AGI, exploring its potential risks and benefits, as well as the ethical, social, and economic dimensions of its development and deployment.
 
@@ -81,7 +85,9 @@ While board members are fictitious, it is a simulation that aims to draw from a 
 
 By combining research, education, collaboration, advocacy, and outreach, Sophos aims to ensure that society is well-equipped to address the challenges and opportunities that AGI will bring, ultimately fostering a future where AGI benefits all of humanity.
 
-<h3>Short term goals</h3>
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h3>Short term goals</h3>
+</div>
 
 Hold the first meeting with the Advisory Board.
 Date: 31 March 2023
@@ -135,7 +141,11 @@ Here is the Meeting Agenda:
 
 9. Adjournment
 
-<h3>Here is how the full meeting played out (link to Notion page):</h3>
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h3>First Meeting</h3>
+</div>
+
+👉 Here is how the full meeting played out (link to Notion page):
 
 <p></p>
 
@@ -146,8 +156,9 @@ Here is the Meeting Agenda:
 
 Update: I have just reached out to the OpenAI team asking if this limit could be eased.
 
-
-<h2>SophosAGI Advisory Board</h2>
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h2>SophosAGI Advisory Board</h2>
+</div>
 
 The Advisory Board, comprising of 25 fictional characters, has been carefully selected with the help of ChatGPT (model GPT-4) to ensure global representation. The list of board members can be found below, with a disclaimer that any resemblance to real individuals is coincidental.
 
@@ -155,10 +166,10 @@ The Advisory Board, comprising of 25 fictional characters, has been carefully se
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSTI_fNjdzdiE3msNl1_4AZLjE4Flx4Uo-E3QHYNoGlds77B0Q8J2QX43rfS5fQYmduGgn2l7bJ8_o4/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="800"></iframe>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 SophosAGI (c) 2023. All Rights Reserved.
