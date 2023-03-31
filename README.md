@@ -101,82 +101,61 @@ Here is the Meeting Agenda:
   <h3>Meeting Agenda</h3> 
 </div>
 
-<ul>
-  <li>
-    <details>
-      <summary>Welcome and Introductions (10 minutes)</summary>
+<details>
+  <summary>Click to expand/collapse</summary>
+  <ul>
+    <li>Welcome and Introductions (10 minutes)
       <ul>
         <li>Chairperson or Executive Director's welcome remarks</li>
         <li>Roundtable self-introductions of Advisory Board members</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Overview of the Nonprofit Organization (15 minutes)</summary>
+    </li>
+    <li>Overview of the Nonprofit Organization (15 minutes)
       <ul>
         <li>Presentation on the nonprofit's mission, vision, and values</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Role and Expectations of the Advisory Board (20 minutes)</summary>
+    </li>
+    <li>Role and Expectations of the Advisory Board (20 minutes)
       <ul>
         <li>Presentation on the purpose, scope, and expectations of the Advisory Board</li>
         <li>Discussion of an outline for the Advisory Board's terms of reference</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Strategic Priorities and Challenges (30 minutes)</summary>
+    </li>
+    <li>Strategic Priorities and Challenges (30 minutes)
       <ul>
         <li>Presentation on the nonprofit's current strategic priorities and challenges</li>
         <li>Group discussion on how the Advisory Board can provide guidance and support</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Advisory Board Work Plan (20 minutes)</summary>
+    </li>
+    <li>Advisory Board Work Plan (20 minutes)
       <ul>
         <li>Establishment of working groups, committees, or task forces as needed</li>
         <li>Discussion on the frequency and format of future meetings</li>
         <li>Setting of goals and objectives for the first quarter</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Advisory Board Governance (15 minutes)</summary>
+    </li>
+    <li>Advisory Board Governance (15 minutes)
       <ul>
         <li>Nomination and election of Advisory Board chairperson, vice-chairperson, and other roles (if applicable)</li>
         <li>Review and adoption of the Advisory Board's code of conduct or ethics</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Open Discussion and Q&A (20 minutes)</summary>
+    </li>
+    <li>Open Discussion and Q&A (20 minutes)
       <ul>
         <li>Opportunity for board members to raise questions, concerns, or suggestions</li>
         <li>Discussion on potential collaborations, partnerships, or resources</li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary>Next Steps and Closing (10 minutes)</summary>
+    </li>
+    <li>Next Steps and Closing (10 minutes)
       <ul>
         <li>Summary of action items and assignments</li>
         <li>Confirmation of the date, time, and location for the next meeting</li>
         <li>Chairperson or Executive Director's closing remarks</li>
         <li>Any Other Business (AOB)</li>
       </ul>
-    </details>
-  </li>
-</ul>
+    </li>
+  </ul>
+</details>
 
 <style>
   details summary::-webkit-details-marker {
@@ -187,8 +166,13 @@ Here is the Meeting Agenda:
     display: inline-block;
     margin-right: 5px;
   }
-  details[open] summary
+  details[open] summary::before {
+    content: '-';
+  }
+</style>
 
+
+<p></p>
 
 <div style="background-color: #f2f2f2; width: 100%;">
 	<h3>First Meeting</h3>
