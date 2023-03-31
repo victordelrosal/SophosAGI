@@ -4,7 +4,7 @@
 
 Sophos (greek)
 
-	<i> Agathos kai sophos</i> , a phrase used by Plato meaning "good and wise"
+	gathos kai sophos, a phrase used by Plato meaning "good and wise"
 	Sage (philosophy) or sophos, a philosophical term for someone who has attained wisdom
 
 AGI: Artificial General Intelligence (human level-AI).
