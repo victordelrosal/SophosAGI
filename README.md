@@ -5,18 +5,18 @@
 	sophos (Ancient Greek σοφῶς or sophôs): a philosophical term for someone who has attained wisdom
 	gathos kai sophos: a phrase used by Plato meaning "good and wise"
 
-AGI: Artificial General Intelligence (human level-AI).
+AGI: Artificial General Intelligence or human-level AI.
 
 <b><em>SophosAGI: being good and wise about AGI</em></b>
 
 <p></p>
 <p></p>
 
-<mark><h3>SophosAGI is an AGI-readiness organization advised by an AI board.</h3></mark>
+<h3><mark>SophosAGI is an AGI-readiness organization advised by an AI board.</mark></h3>
 
 We engage in training, research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
 
-SophpsAGI is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
+SophosAGI is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
 
 <div style="background-color: #f2f2f2; width: 100%;">
   <h2>Mission</h2> 
@@ -177,6 +177,9 @@ Here is the Meeting Agenda:
 
 
 ⚠️ Note: the meeting started at 11:00 but had to be paused at 11:45 because of the 25-message cap on the GPT-4 Model. Will aim to resume in the afternoon.
+
+Meeting is resuming at 14:02
+
 
 <div style="background-color: #f2f2f2; width: 100%;">
 	<h2>SophosAGI Advisory Board</h2>
