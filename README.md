@@ -32,7 +32,7 @@ While board members are fictitious, it is a simulation that aims to draw from a 
 
 ▶ Raise awareness: encourage access to objective, balanced, in-depth information about the concept of AI and AGI, its technical specifications, design principles, potential benefits, risks, and the current state of research. 
 
-▶ Highlight ethics: emphasize the importance of ethical considerations and responsible development of AGI technology.
+▶ Highlight ethical implications: emphasize the importance of ethical considerations and responsible development of AGI technology.
 
 ▶ Promote understanding: break down complex concepts and technical jargon into understandable language, making AGI-related information accessible to a wider audience. This enables more people to participate in conversations and decision-making processes around AGI.
 
@@ -54,7 +54,7 @@ While board members are fictitious, it is a simulation that aims to draw from a 
 
 ▶ Advocacy: we advocate for responsible and ethical AGI development, emphasizing the need for transparency, inclusivity, and public engagement in shaping the future of AGI.
 
-O▶ utreach: we engage with the public, governments, and organizations to promote understanding of AGI, its potential impact on society, and the importance of preparing for its arrival.
+▶ Outreach: we engage with the public, governments, and organizations to promote understanding of AGI, its potential impact on society, and the importance of preparing for its arrival.
 
 By combining research, education, collaboration, advocacy, and outreach, Sophos aims to ensure that society is well-equipped to address the challenges and opportunities that AGI will bring, ultimately fostering a future where AGI benefits all of humanity.
 
@@ -112,7 +112,14 @@ Here is the Meeting Agenda:
 
 9. Adjournment
 
+<h3>Here is how the full meeting played out (link to Notion page):</h3>
 
+https://sophosagi.notion.site/First-Advisory-Board-Meeting-1a84eb24af244fbda94ebb531712b82e
+
+
+Note: the meeting started at 11:00 but had to be paused at 11:45 because of the 25-message cap on the GPT-4 Model. Will aim to resume in the afternoon.
+
+Update: I have just reached out to the OpenAI team asking if this limit could be eased.
 
 
 <h2>SophosAGI Advisory Board</h2>
