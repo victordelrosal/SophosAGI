@@ -97,49 +97,98 @@ Duration: est. 60 minutes
 
 Here is the Meeting Agenda:
 
-1. Welcome and Introductions (10 minutes)
+<div style="background-color: #f2f2f2; width: 100%;">
+  <h3>Meeting Agenda</h3> 
+</div>
 
-	Chairperson or Executive Director's welcome remarks
-	Roundtable self-introductions of Advisory Board members
+<ul>
+  <li>
+    <details>
+      <summary>Welcome and Introductions (10 minutes)</summary>
+      <ul>
+        <li>Chairperson or Executive Director's welcome remarks</li>
+        <li>Roundtable self-introductions of Advisory Board members</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Overview of the Nonprofit Organization (15 minutes)</summary>
+      <ul>
+        <li>Presentation on the nonprofit's mission, vision, and values</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Role and Expectations of the Advisory Board (20 minutes)</summary>
+      <ul>
+        <li>Presentation on the purpose, scope, and expectations of the Advisory Board</li>
+        <li>Discussion of an outline for the Advisory Board's terms of reference</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Strategic Priorities and Challenges (30 minutes)</summary>
+      <ul>
+        <li>Presentation on the nonprofit's current strategic priorities and challenges</li>
+        <li>Group discussion on how the Advisory Board can provide guidance and support</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Advisory Board Work Plan (20 minutes)</summary>
+      <ul>
+        <li>Establishment of working groups, committees, or task forces as needed</li>
+        <li>Discussion on the frequency and format of future meetings</li>
+        <li>Setting of goals and objectives for the first quarter</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Advisory Board Governance (15 minutes)</summary>
+      <ul>
+        <li>Nomination and election of Advisory Board chairperson, vice-chairperson, and other roles (if applicable)</li>
+        <li>Review and adoption of the Advisory Board's code of conduct or ethics</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Open Discussion and Q&A (20 minutes)</summary>
+      <ul>
+        <li>Opportunity for board members to raise questions, concerns, or suggestions</li>
+        <li>Discussion on potential collaborations, partnerships, or resources</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>Next Steps and Closing (10 minutes)</summary>
+      <ul>
+        <li>Summary of action items and assignments</li>
+        <li>Confirmation of the date, time, and location for the next meeting</li>
+        <li>Chairperson or Executive Director's closing remarks</li>
+        <li>Any Other Business (AOB)</li>
+      </ul>
+    </details>
+  </li>
+</ul>
 
-2. Overview of the Nonprofit Organization (15 minutes)
+<style>
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+  details summary::before {
+    content: '+';
+    display: inline-block;
+    margin-right: 5px;
+  }
+  details[open] summary
 
-	Presentation on the nonprofit's mission, vision, and values
-
-3. Role and Expectations of the Advisory Board (20 minutes)
-
-	Presentation on the purpose, scope, and expectations of the Advisory Board
-	Discussion of an outline for the Advisory Board's terms of reference
-
-4. Strategic Priorities and Challenges (30 minutes)
-
-	Presentation on the nonprofit's current strategic priorities and challenges
-	Group discussion on how the Advisory Board can provide guidance and support
-
-5. Advisory Board Work Plan (20 minutes)
-
-	Establishment of working groups, committees, or task forces as needed
-	Discussion on the frequency and format of future meetings
-	Setting of goals and objectives for the first quarter
-
-6. Advisory Board Governance (15 minutes)
-
-	Nomination and election of Advisory Board chairperson, vice-chairperson, and other roles (if applicable)
-	Review and adoption of the Advisory Board's code of conduct or ethics
-
-7. Open Discussion and Q&A (20 minutes)
-
-	Opportunity for board members to raise questions, concerns, or suggestions
-	Discussion on potential collaborations, partnerships, or resources
-
-8. Next Steps and Closing (10 minutes)
-
-	Summary of action items and assignments
-	Confirmation of the date, time, and location for the next meeting
-	Chairperson or Executive Director's closing remarks
-	Any Other Business (AOB)
-
-9. Adjournment
 
 <div style="background-color: #f2f2f2; width: 100%;">
 	<h3>First Meeting</h3>
