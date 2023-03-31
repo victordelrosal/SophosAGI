@@ -20,12 +20,18 @@ We engage in training, research, collaboration, and advocacy to ensure that AGI 
 
 It is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
 
-<h2>Mission</h2> 
+<div style="background-color: #f2f2f2; width: 100%;">
+  <h2>Mission</h2> 
+</div>
+
 Our mission is to prepare society for the arrival of human-level artificial general intelligence (AGI), ensuring its development benefits all of humanity.
 
 SophosAGI seeks to help society navigate the complex landscape of AGI and its potential consequences, fostering an informed and responsible approach to this transformative technology.
 
-<h3>Focus areas</h3> 
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h3>Focus areas</h3> 
+</div>
+
 
 ▶ Create awareness about artificial general intelligence (AGI), how it works, its benefits and potential threats, etc.
 
@@ -33,7 +39,9 @@ SophosAGI seeks to help society navigate the complex landscape of AGI and its po
 
 ▶ Explore the challenges and opportunities presented by the development of AGI across all sectors of society. 
 
-<h3>AI Advisory Board</h3> 
+<div style="background-color: #f2f2f2; width: 100%;">
+	<h3>AI Advisory Board</h3> 
+</div>
 
 SophosAGI is run by a human executive team, advised by a unique AI Advisory Board consisting of 25 AI-generated members, ensuring a comprehensive representation of diverse stakeholder perspectives.
 
