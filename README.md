@@ -2,9 +2,7 @@
 
 <img src="https://i.postimg.cc/3J8YtMDZ/Sophos-AGICenter.png" alt="SophosAGI Center" width="1000">
 
-Sophos (greek)
-
-	sophos: a philosophical term for someone who has attained wisdom
+	sophos (Ancient Greek σοφῶς or sophôs): a philosophical term for someone who has attained wisdom
 	gathos kai sophos: a phrase used by Plato meaning "good and wise"
 
 AGI: Artificial General Intelligence (human level-AI).
