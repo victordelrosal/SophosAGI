@@ -2,6 +2,18 @@
 
 <img src="https://i.postimg.cc/3J8YtMDZ/Sophos-AGICenter.png" alt="SophosAGI Center" width="1000">
 
+Sophos (greek)
+
+	<i> Agathos kai sophos</i> , a phrase used by Plato meaning "good and wise"
+	Sage (philosophy) or sophos, a philosophical term for someone who has attained wisdom
+
+AGI: Artificial General Intelligence (human level-AI).
+
+<em>SophosAGI: being good and wise about AGI</em>
+
+<p></p>
+<p></p>
+
 SophosAGI is an AGI-readiness organization advised by an AI board.
 
 We engage in training, research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
