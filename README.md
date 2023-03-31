@@ -4,21 +4,21 @@
 
 Sophos (greek)
 
-	gathos kai sophos, a phrase used by Plato meaning "good and wise"
-	Sage (philosophy) or sophos, a philosophical term for someone who has attained wisdom
+	sophos: a philosophical term for someone who has attained wisdom
+	gathos kai sophos: a phrase used by Plato meaning "good and wise"
 
 AGI: Artificial General Intelligence (human level-AI).
 
-<em>SophosAGI: being good and wise about AGI</em>
+<b><em>SophosAGI: being good and wise about AGI</em></b>
 
 <p></p>
 <p></p>
 
-<mark>SophosAGI is an AGI-readiness organization advised by an AI board.</mark>
+<mark><h3>SophosAGI is an AGI-readiness organization advised by an AI board.</h3></mark>
 
 We engage in training, research, collaboration, and advocacy to ensure that AGI serves the common good and benefits humanity as a whole.
 
-It is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
+SophpsAGI is part of an international research initiative to understand the potential consequences of (human-level) artificial general intelligence (AGI).
 
 <div style="background-color: #f2f2f2; width: 100%;">
   <h2>Mission</h2> 
@@ -98,7 +98,7 @@ Duration: est. 60 minutes
 Here is the Meeting Agenda:
 
 <div style="background-color: #f2f2f2; width: 100%;">
-  <h3>Meeting Agenda</h3> 
+  <h3>First meeting agenda</h3> 
 </div>
 
 <details>
@@ -174,16 +174,13 @@ Here is the Meeting Agenda:
 
 <p></p>
 
-<div style="background-color: #f2f2f2; width: 100%;">
-	<h3>First Meeting</h3>
-</div>
 
 👉 <a href="https://sophosagi.notion.site/First-Advisory-Board-Meeting-1a84eb24af244fbda94ebb531712b82e">Full transcript of first meeting (links to Notion page)</a>
 
 
 ⚠️ Note: the meeting started at 11:00 but had to be paused at 11:45 because of the 25-message cap on the GPT-4 Model. Will aim to resume in the afternoon.
 
-Update: I have just reached out to the OpenAI team asking if this limit could be eased.
+🙏🏻 Update: I have just reached out to the OpenAI team asking if this limit could be eased.
 
 <div style="background-color: #f2f2f2; width: 100%;">
 	<h2>SophosAGI Advisory Board</h2>
